@@ -8,3 +8,4 @@ Apuntes sobre Java
 5. Paquetes ```paquete1/Persona```
 6. Static ```Estatico```
 7. Arreglos ```Arreglos```
+8. Inyección de dependencias ```basicos/Arreglos```
