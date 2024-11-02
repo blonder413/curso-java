@@ -5,3 +5,4 @@ Apuntes sobre Java
 2. Variables ```Variables```
 3. Métodos ```Metodos```
 4. Atributos ```Atributos```
+5. Paquetes ```paquete1/Persona```
