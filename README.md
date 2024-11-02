@@ -11,3 +11,4 @@ Apuntes sobre Java
 8. Inyección de dependencias ```basicos/Arreglos```
 9. Constructor ```basicos/ConstructorDeClase```
 10. Sobrecarga ```basicos/Sobrecarga```
+11. Herencia ```basicos/Herencia```
