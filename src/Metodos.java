@@ -28,13 +28,13 @@ public class Metodos {
     {
         int num1 = 4;
         int num2 = 13;
-        suma = num1 + num2;
+        int suma = num1 + num2;
     }
 }
 
-Metodos func = new Metodos();
+//Metodos func = new Metodos();
 // Para llamar una función ponemos su nombre y ()
-saludar();
+//saludar();
 
 // En este caso tenemos el valor pero no estamos haciendo nada con él
-int suma = func.sumar(4, 13);
+//int suma = func.sumar(4, 13);

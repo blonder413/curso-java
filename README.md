@@ -6,3 +6,4 @@ Apuntes sobre Java
 3. Métodos ```Metodos```
 4. Atributos ```Atributos```
 5. Paquetes ```paquete1/Persona```
+6. Static ```Estatico```

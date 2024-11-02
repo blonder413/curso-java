@@ -12,4 +12,4 @@ class Variables {
 }
 
 // variables tipo clase (instancia)
-Variables objeto = new Variables();
+//Variables objeto = new Variables();

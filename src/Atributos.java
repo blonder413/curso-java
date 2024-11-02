@@ -12,10 +12,10 @@ public class Atributos {
     }
 }
 
-Atributos atr = new Atributos();
+//Atributos atr = new Atributos();
 
 // podemos acceder a los atributos a través del punto
-atr.nombre;
+//atr.nombre;
 
 // igualmente podemos acceder a los métodos públicos
-atr.saludar();
+//atr.saludar();
