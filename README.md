@@ -7,3 +7,4 @@ Apuntes sobre Java
 4. Atributos ```Atributos```
 5. Paquetes ```paquete1/Persona```
 6. Static ```Estatico```
+7. Arreglos ```Arreglos```
